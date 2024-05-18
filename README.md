@@ -22,12 +22,6 @@ The goal of this project is to generate realistic images of cats using a DCGAN. 
     git clone https://github.com/your-username/cat-dcgan.git
     cd cat-dcgan
     ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 ### Training the DCGAN
 1. Ensure you have a dataset of cat images larger than 128x128 pixels.
