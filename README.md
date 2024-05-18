@@ -10,7 +10,6 @@ This repository contains the implementation of a Deep Convolutional Generative A
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Results](#results)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -53,9 +52,6 @@ The preprocessing script resizes and augments the images to prepare them for tra
 
 ### Trained Model
 The trained generator model can be loaded and used to generate new images of cats.
-
-## Results
-The trained DCGAN generates realistic images of cats. Example generated images can be found in the `results` directory.
 
 ## Acknowledgements
 This project was inspired by the original DCGAN paper by Radford, Metz, and Chintala. Special thanks to the TensorFlow and Keras teams for their excellent libraries.
